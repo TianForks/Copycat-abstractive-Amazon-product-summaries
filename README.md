@@ -44,6 +44,8 @@ We used the following instructions:
 
 ## Citation
 
+(will be updated soon)
+
 ```
 @article{bravzinskas2019unsupervised,
   title={Unsupervised Multi-Document Opinion Summarization as Copycat-Review Generation},
